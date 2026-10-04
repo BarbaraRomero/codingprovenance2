@@ -4,14 +4,14 @@
     "href": "resources.html",
     "title": "Bibliography & Resources",
     "section": "",
-    "text": "Quarto: publishing system used for this site\nOpenRefine: cleaning messy data\nR / Python"
+    "text": "Under construction"
   },
   {
     "objectID": "resources.html#tools",
     "href": "resources.html#tools",
     "title": "Bibliography & Resources",
-    "section": "",
-    "text": "Quarto: publishing system used for this site\nOpenRefine: cleaning messy data\nR / Python"
+    "section": "Tools",
+    "text": "Tools\n\nQuarto: publishing system used for this site\nOpenRefine: cleaning messy data\nR / Python"
   },
   {
     "objectID": "resources.html#datasets",
@@ -37,325 +37,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Coding Provenance Workshop",
+    "title": "CPW2",
     "section": "",
-    "text": "Coding\n    Provenance\n    Workshop\n  \n  — Second Edition —\n  \n    December 1 to 4, 2026·Getty Research Institute, Los Angeles, USA\n  \n  \n  ↓ explore the materials"
+    "text": "CPW2\n    \n  \n  \n    Team\n    Second Online Session\n    Structuring Data\n    Preprocessing Data\n    Analysing Data\n    Visualising Data\n    Bibliography & Resources"
   },
   {
-    "objectID": "index.html#about-the-workshop",
-    "href": "index.html#about-the-workshop",
-    "title": "Coding Provenance Workshop",
-    "section": "About the workshop",
-    "text": "About the workshop\nAdd a short description of the workshop here: its aims, who it is for, and what participants will learn."
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "CPW2",
+    "section": "About",
+    "text": "About\n\nUnder construction"
   },
   {
-    "objectID": "index.html#explore-the-materials",
-    "href": "index.html#explore-the-materials",
-    "title": "Coding Provenance Workshop",
-    "section": "Explore the materials",
-    "text": "Explore the materials\n\n\nTeam\nMeet the people behind the workshop.\n\n\nSecond Online Session\nAgenda, recordings and slides.\n\n\nStructuring Data\nOrganising provenance data into consistent structures.\n\n\nPreprocessing Data\nCleaning, standardising and preparing data.\n\n\nAnalysing Data\nMethods and approaches for analysis.\n\n\nVisualising Data\nCharts, maps and networks.\n\n\nBibliography & Resources\nReadings, tools and datasets."
+    "objectID": "index.html#materials",
+    "href": "index.html#materials",
+    "title": "CPW2",
+    "section": "Materials",
+    "text": "Materials\n\n\nSecond Online Session\nAgenda, recordings and slides.\n\n\nStructuring Data\nOrganising provenance data into consistent structures.\n\n\nPreprocessing Data\nCleaning, standardising and preparing data.\n\n\nAnalysing Data\nMethods and approaches for analysis.\n\n\nVisualising Data\nCharts, maps and networks.\n\n\nBibliography & Resources\nReadings, tools and datasets."
   },
   {
-    "objectID": "index.html#key-dates",
-    "href": "index.html#key-dates",
-    "title": "Coding Provenance Workshop",
-    "section": "Key dates",
-    "text": "Key dates\n\n\n\n\n\n\n\nDate\nSession\n\n\n\n\nTBC\nFirst online session\n\n\nTBC\nSecond online session\n\n\nDecember 1–4, 2026\nIn-person workshop, Getty Research Institute, Los Angeles"
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "CPW2",
+    "section": "Schedule",
+    "text": "Schedule\n\nSchedule to be announced.\n\n\nDate\nTime\nSession"
   },
   {
     "objectID": "second-session.html",
     "href": "second-session.html",
     "title": "Second Online Session",
     "section": "",
-    "text": "Date: TBC\nTime: TBC\nPlatform: Zoom / Teams link"
-  },
-  {
-    "objectID": "second-session.html#overview",
-    "href": "second-session.html#overview",
-    "title": "Second Online Session",
-    "section": "",
-    "text": "Date: TBC\nTime: TBC\nPlatform: Zoom / Teams link"
-  },
-  {
-    "objectID": "second-session.html#agenda",
-    "href": "second-session.html#agenda",
-    "title": "Second Online Session",
-    "section": "Agenda",
-    "text": "Agenda\n\n\n\nTime\nActivity\nSpeaker\n\n\n\n\n00:00\nWelcome and introductions\n\n\n\n00:15\n\n\n\n\n00:45\nBreak\n\n\n\n01:00\n\n\n\n\n01:45\nDiscussion and next steps"
-  },
-  {
-    "objectID": "second-session.html#materials",
-    "href": "second-session.html#materials",
-    "title": "Second Online Session",
-    "section": "Materials",
-    "text": "Materials\n\nSlides: add link\nRecording: add link"
-  },
-  {
-    "objectID": "second-session.html#notes-and-outcomes",
-    "href": "second-session.html#notes-and-outcomes",
-    "title": "Second Online Session",
-    "section": "Notes and outcomes",
-    "text": "Notes and outcomes\nSummary of the discussion."
+    "text": "Under construction\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "visualising-data.html",
     "href": "visualising-data.html",
     "title": "Visualising Data",
     "section": "",
-    "text": "Explain the purpose of this step in the workflow.",
-    "crumbs": [
-      "Visualising Data"
-    ]
-  },
-  {
-    "objectID": "visualising-data.html#introduction",
-    "href": "visualising-data.html#introduction",
-    "title": "Visualising Data",
-    "section": "",
-    "text": "Explain the purpose of this step in the workflow.",
-    "crumbs": [
-      "Visualising Data"
-    ]
-  },
-  {
-    "objectID": "visualising-data.html#key-concepts",
-    "href": "visualising-data.html#key-concepts",
-    "title": "Visualising Data",
-    "section": "Key concepts",
-    "text": "Key concepts\n\nConcept 1\nConcept 2",
-    "crumbs": [
-      "Visualising Data"
-    ]
-  },
-  {
-    "objectID": "visualising-data.html#example",
-    "href": "visualising-data.html#example",
-    "title": "Visualising Data",
-    "section": "Example",
-    "text": "Example\n# Add example code here",
-    "crumbs": [
-      "Visualising Data"
-    ]
-  },
-  {
-    "objectID": "visualising-data.html#exercises",
-    "href": "visualising-data.html#exercises",
-    "title": "Visualising Data",
-    "section": "Exercises",
-    "text": "Exercises\n\nExercise description",
-    "crumbs": [
-      "Visualising Data"
-    ]
-  },
-  {
-    "objectID": "visualising-data.html#further-reading",
-    "href": "visualising-data.html#further-reading",
-    "title": "Visualising Data",
-    "section": "Further reading",
-    "text": "Further reading\nSee also Bibliography & Resources.",
-    "crumbs": [
-      "Visualising Data"
-    ]
+    "text": "Under construction\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "analysing-data.html",
     "href": "analysing-data.html",
     "title": "Analysing Data",
     "section": "",
-    "text": "Explain the purpose of this step in the workflow.",
-    "crumbs": [
-      "Analysing Data"
-    ]
-  },
-  {
-    "objectID": "analysing-data.html#introduction",
-    "href": "analysing-data.html#introduction",
-    "title": "Analysing Data",
-    "section": "",
-    "text": "Explain the purpose of this step in the workflow.",
-    "crumbs": [
-      "Analysing Data"
-    ]
-  },
-  {
-    "objectID": "analysing-data.html#key-concepts",
-    "href": "analysing-data.html#key-concepts",
-    "title": "Analysing Data",
-    "section": "Key concepts",
-    "text": "Key concepts\n\nConcept 1\nConcept 2",
-    "crumbs": [
-      "Analysing Data"
-    ]
-  },
-  {
-    "objectID": "analysing-data.html#example",
-    "href": "analysing-data.html#example",
-    "title": "Analysing Data",
-    "section": "Example",
-    "text": "Example\n# Add example code here",
-    "crumbs": [
-      "Analysing Data"
-    ]
-  },
-  {
-    "objectID": "analysing-data.html#exercises",
-    "href": "analysing-data.html#exercises",
-    "title": "Analysing Data",
-    "section": "Exercises",
-    "text": "Exercises\n\nExercise description",
-    "crumbs": [
-      "Analysing Data"
-    ]
-  },
-  {
-    "objectID": "analysing-data.html#further-reading",
-    "href": "analysing-data.html#further-reading",
-    "title": "Analysing Data",
-    "section": "Further reading",
-    "text": "Further reading\nSee also Bibliography & Resources.",
-    "crumbs": [
-      "Analysing Data"
-    ]
+    "text": "Under construction\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "structuring-data.html",
     "href": "structuring-data.html",
     "title": "Structuring Data",
     "section": "",
-    "text": "Explain the purpose of this step in the workflow.",
-    "crumbs": [
-      "Structuring Data"
-    ]
-  },
-  {
-    "objectID": "structuring-data.html#introduction",
-    "href": "structuring-data.html#introduction",
-    "title": "Structuring Data",
-    "section": "",
-    "text": "Explain the purpose of this step in the workflow.",
-    "crumbs": [
-      "Structuring Data"
-    ]
-  },
-  {
-    "objectID": "structuring-data.html#key-concepts",
-    "href": "structuring-data.html#key-concepts",
-    "title": "Structuring Data",
-    "section": "Key concepts",
-    "text": "Key concepts\n\nConcept 1\nConcept 2",
-    "crumbs": [
-      "Structuring Data"
-    ]
-  },
-  {
-    "objectID": "structuring-data.html#example",
-    "href": "structuring-data.html#example",
-    "title": "Structuring Data",
-    "section": "Example",
-    "text": "Example\n# Add example code here",
-    "crumbs": [
-      "Structuring Data"
-    ]
-  },
-  {
-    "objectID": "structuring-data.html#exercises",
-    "href": "structuring-data.html#exercises",
-    "title": "Structuring Data",
-    "section": "Exercises",
-    "text": "Exercises\n\nExercise description",
-    "crumbs": [
-      "Structuring Data"
-    ]
-  },
-  {
-    "objectID": "structuring-data.html#further-reading",
-    "href": "structuring-data.html#further-reading",
-    "title": "Structuring Data",
-    "section": "Further reading",
-    "text": "Further reading\nSee also Bibliography & Resources.",
-    "crumbs": [
-      "Structuring Data"
-    ]
+    "text": "Under construction\nEduardo Chicharro (signed “E. Chicharro, Almería”)\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "Add photos to the images/ folder and replace the placeholders below."
-  },
-  {
-    "objectID": "team.html#organisers",
-    "href": "team.html#organisers",
-    "title": "Team",
-    "section": "Organisers",
-    "text": "Organisers\n\n\n\n\nName Surname\nRole, Institution\nShort biography.\n\n\n\n\n\nName Surname\nRole, Institution\nShort biography."
-  },
-  {
-    "objectID": "team.html#contributors",
-    "href": "team.html#contributors",
-    "title": "Team",
-    "section": "Contributors",
-    "text": "Contributors\n\nName Surname — Institution"
+    "text": "Under construction\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "preprocessing-data.html",
     "href": "preprocessing-data.html",
     "title": "Preprocessing Data",
     "section": "",
-    "text": "Explain the purpose of this step in the workflow.",
-    "crumbs": [
-      "Preprocessing Data"
-    ]
-  },
-  {
-    "objectID": "preprocessing-data.html#introduction",
-    "href": "preprocessing-data.html#introduction",
-    "title": "Preprocessing Data",
-    "section": "",
-    "text": "Explain the purpose of this step in the workflow.",
-    "crumbs": [
-      "Preprocessing Data"
-    ]
-  },
-  {
-    "objectID": "preprocessing-data.html#key-concepts",
-    "href": "preprocessing-data.html#key-concepts",
-    "title": "Preprocessing Data",
-    "section": "Key concepts",
-    "text": "Key concepts\n\nConcept 1\nConcept 2",
-    "crumbs": [
-      "Preprocessing Data"
-    ]
-  },
-  {
-    "objectID": "preprocessing-data.html#example",
-    "href": "preprocessing-data.html#example",
-    "title": "Preprocessing Data",
-    "section": "Example",
-    "text": "Example\n# Add example code here",
-    "crumbs": [
-      "Preprocessing Data"
-    ]
-  },
-  {
-    "objectID": "preprocessing-data.html#exercises",
-    "href": "preprocessing-data.html#exercises",
-    "title": "Preprocessing Data",
-    "section": "Exercises",
-    "text": "Exercises\n\nExercise description",
-    "crumbs": [
-      "Preprocessing Data"
-    ]
-  },
-  {
-    "objectID": "preprocessing-data.html#further-reading",
-    "href": "preprocessing-data.html#further-reading",
-    "title": "Preprocessing Data",
-    "section": "Further reading",
-    "text": "Further reading\nSee also Bibliography & Resources.",
-    "crumbs": [
-      "Preprocessing Data"
-    ]
+    "text": "Under construction\n\n\n\n\n\n Back to top"
   }
 ]
